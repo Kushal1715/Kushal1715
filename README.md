@@ -26,13 +26,13 @@
 ### :woman_technologist: About Me :
 I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- :telescope: I’m a student and contributing to frontend and backend for building web applications.
+- :telescope: I’m a full stack MERN developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I stay updated with latest updates of frameworks and libraries.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I love to learn new things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-khadka-495532255/)
 
 ---
 
